@@ -1,0 +1,7 @@
+name = "submoduletest"
+uuid = "f1678b03-0b2d-4237-aa3a-ef2016f3b8d7"
+authors = ["Ali Ghorashi <aligho@mit.edu>"]
+version = "0.1.0"
+
+[deps]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
